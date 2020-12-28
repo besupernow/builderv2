@@ -3,11 +3,15 @@ const express = require('express');
 const app = express();
 app.use(express.static('.'));
 
-const YOUR_DOMAIN = 'http://localhost:5500';
+const YOUR_DOMAIN = 'https://testing-builder.herokuapp.com';
 
 app.post('/create-checkout-session', async (req, res) => {
   const session = await stripe.checkout.sessions.create({
     payment_method_types: ['card'],
+    billing_address_collection: 'auto',
+    shipping_address_collection: {
+      allowed_countries: ['US'],
+    },
     line_items: [
       {
         price_data: {
