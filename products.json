@@ -1,0 +1,537 @@
+{
+    "cpu": [
+        {
+            "id": "receJwVWcdvfvMVqy",
+            "fields": {
+                "Price": 114.99,
+                "Name": "Core i3-10100 ",
+                "DateUpdated": "2020-12-27T21:30:00.000Z",
+                "BaseSpeed": "3.6",
+                "ModelNumber": "BX8070110100",
+                "Instock": true,
+                "Threads": 8,
+                "Photo": [
+                    {
+                        "id": "attWvpJ92h2YF2XP2",
+                        "url": "https://dl.airtable.com/.attachments/6ff3cfcb84548f3b75676f427e1b0d1d/ab76862a/Amazon.com_Intel_Core_i3-10100_Base_Clock_3.60GHz_Socket_...",
+                        "filename": "Amazon.com_Intel_Core_i3-10100_(Base_Clock_3.60GHz_Socket_...",
+                        "size": 23931,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/456e6c266d56a0d0b79682b51c7a0477/12911615",
+                                "width": 33,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/001ecad5bd48032689ce969edaacc802/ba0a63a9",
+                                "width": 466,
+                                "height": 509
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/13cb73f4c6903ac128d68d371f16145a/8696c2ef",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "BoostSpeed": "4.3",
+                "Cores": 4,
+                "Tier": "Low-Tier",
+                "CPUManufacturer": "Intel",
+                "ItemURL": "https://www.newegg.com/intel-core-i3-10100-core-i3-10th-gen/p/N82E16819118138?Item=N82E16819118138&nm_mc=AFC-RAN-COM&cm_mmc=AFC-RAN-COM&utm_medium=affiliates&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-KcUtdLjHR46IS09ReE0S0w"
+            },
+            "createdTime": "2020-07-15T01:27:36.000Z"
+        },
+        {
+            "id": "recGXMEvnOxv3dE70",
+            "fields": {
+                "Price": 130,
+                "Overclock": true,
+                "Name": "Ryzen 3 3300X",
+                "Date Updated": "2020-12-27T21:30:00.000Z",
+                "Base Speed": "3.8",
+                "Model Number": "100-000000159BOX",
+                "Threads": 8,
+                "Photo": [
+                    {
+                        "id": "attFHcQDTC3IgmGbC",
+                        "url": "https://dl.airtable.com/.attachments/61a3af8af03c8395299dce4dfd0e50f2/57b15765/AMD_Ryzen_3_3300X_3.8_GHz_Quad-Core_AM4_Processor.8GHzQuad-CoreAM4Processor",
+                        "filename": "AMD_Ryzen_3_3300X_3.8_GHz_Quad-Core_AM4_Processor.8 GHz Quad-Core AM4 Processor",
+                        "size": 167874,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/5e98c921513f3d0afa8864762a7277b3/89936ad1",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/ddb3fa03fad0f1316069112e8a46619e/0f3af39d",
+                                "width": 512,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/5690c82d7968ddc04b5b0fd017577c25/785cc2d2",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Boost Speed": "4.3",
+                "Cores": 4,
+                "Tier": "Low-Tier",
+                "CPUManufacturer": "AMD",
+                "Item URL": "https://www.adorama.com/amd101159box.html?sterm=Qm8X9jwlTxyLU9GwUx0Mo3b2UkE34TzQe1SPTI0&utm_source=rflaid912925"
+            },
+            "createdTime": "2020-07-15T19:40:05.000Z"
+        },
+        {
+            "id": "recxh0n8jkJfhdglN",
+            "fields": {
+                "Price": 179.99,
+                "Name": "Core i5-10400",
+                "Date Updated": "2020-12-27T21:45:00.000Z",
+                "Base Speed": "2.9",
+                "Model Number": "BX8070110400",
+                "In stock": true,
+                "Threads": 12,
+                "Photo": [
+                    {
+                        "id": "attxMfqkwYRS5k8cD",
+                        "url": "https://dl.airtable.com/.attachments/d67797ae5371a5f19fafce44b7e65131/96d2df0a/Amazon.com_ASUS_Prime_B460M-A_MB__Intel_i5-10400_CPU_Computers_...",
+                        "filename": "Amazon.com_ASUS_Prime_B460M-A_MB__Intel_i5-10400_CPU_Computers_...",
+                        "size": 91818,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/e060d3d5789ee5c23e96e29f39331a9c/ef4349ab",
+                                "width": 33,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/f1822e92fa3aa0e1fa49dc81cef1f4ff/e6b19005",
+                                "width": 512,
+                                "height": 561
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/0a7063b1045f28e41abb462a07c43b61/aea82bfa",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Boost Speed": "4.3",
+                "Cores": 6,
+                "Tier": "Low-Tier",
+                "CPUManufacturer": "Intel",
+                "Item URL": "https://www.newegg.com/intel-core-i5-10400-core-i5-10th-gen/p/N82E16819118135?Item=N82E16819118135&nm_mc=AFC-RAN-COM&cm_mmc=AFC-RAN-COM&utm_medium=affiliates&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-TnRjqy9bYl_bwvYxwAryIw"
+            },
+            "createdTime": "2020-12-27T21:26:20.000Z"
+        },
+        {
+            "id": "rec8yCaXVWRQ2JEGh",
+            "fields": {
+                "Price": 239.99,
+                "Overclock": true,
+                "Name": "Ryzen 5 3600",
+                "Date Updated": "2020-12-27T21:48:00.000Z",
+                "Base Speed": "3.6",
+                "Model Number": "100-100000031BOX",
+                "In stock": true,
+                "Threads": 12,
+                "Photo": [
+                    {
+                        "id": "attKrNzUOHidpUWXf",
+                        "url": "https://dl.airtable.com/.attachments/65bc2515b0c6dd96477301da76620ec7/c17020e7/Amazon.com_AMD_Ryzen_5_3600_6-Core_12-Thread_Unlocked_Desktop_...",
+                        "filename": "Amazon.com_AMD_Ryzen_5_3600_6-Core_12-Thread_Unlocked_Desktop_...",
+                        "size": 21937,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/a56e289350f310a0af2906475279afe1/7b8470fb",
+                                "width": 34,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/f4bcd5b54087218935776f6e30908935/e8da8bd6",
+                                "width": 324,
+                                "height": 344
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/9fa7c4c27e4f54a29ad25d0af793db19/be3d3417",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Boost Speed": "4.2",
+                "Cores": 6,
+                "Tier": "Low-Tier",
+                "CPUManufacturer": "AMD",
+                "Item URL": "https://www.newegg.com/amd-ryzen-5-3600/p/N82E16819113569?Item=N82E16819113569&nm_mc=AFC-RAN-COM&cm_mmc=AFC-RAN-COM&utm_medium=affiliates&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-NuQ0xPF9di_5qOBPQ_iDEA"
+            },
+            "createdTime": "2020-12-27T21:46:34.000Z"
+        },
+        {
+            "id": "recOIza7O0m06gpAV",
+            "fields": {
+                "Price": 274.99,
+                "Overclock": true,
+                "Name": "Core i5-10600K",
+                "Date Updated": "2020-12-28T00:32:00.000Z",
+                "Base Speed": "4.1",
+                "Model Number": "BX8070110600K",
+                "In stock": true,
+                "Threads": 12,
+                "Photo": [
+                    {
+                        "id": "attcgJRsG186TCbRg",
+                        "url": "https://dl.airtable.com/.attachments/4f0951b37ffb0c51cbe945915e311cf5/1c60dd95/Intel_Core_i5-10600K_4.1_GHz_Six-Core_LGA_1200_BX8070110600K_BH.1GHzSix-CoreLGA1200BX8070110600KBH",
+                        "filename": "Intel_Core_i5-10600K_4.1_GHz_Six-Core_LGA_1200_BX8070110600K_BH.1 GHz Six-Core LGA 1200 BX8070110600K B&H",
+                        "size": 85994,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/489c92ad54b39f8b982009d9e335122f/5d31997e",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/f57fbb2731db4ee1309c2aea59c05665/ba3a6369",
+                                "width": 512,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/e95219e87c71cbb4d9c7f964cc8f38d1/f4b83bed",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Boost Speed": "4.8",
+                "Cores": 6,
+                "Tier": "Mid-Tier",
+                "CPUManufacturer": "Intel",
+                "Item URL": "https://www.newegg.com/intel-core-i5-10600k-core-i5-10th-gen/p/N82E16819118124?Item=N82E16819118124&nm_mc=AFC-RAN-COM&cm_mmc=AFC-RAN-COM&utm_medium=affiliates&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-YNHZO6mLOY9I8F_83BNxFg"
+            },
+            "createdTime": "2020-12-27T21:48:28.000Z"
+        },
+        {
+            "id": "reckWD7LcfFd09868",
+            "fields": {
+                "Price": 349.99,
+                "Name": "Core i7-10700",
+                "Date Updated": "2020-12-28T00:36:00.000Z",
+                "Base Speed": "2.9",
+                "Model Number": "BX8070110700",
+                "In stock": true,
+                "Threads": 16,
+                "Photo": [
+                    {
+                        "id": "attrHsh4kuavd3weF",
+                        "url": "https://dl.airtable.com/.attachments/0bdc9f28bb7980e06f563f9a2fcd8553/eaa9881a/Intel_Core_i7-10700_2.9_GHz_Eight-Core_LGA_1200_BX8070110700_BH.9GHzEight-CoreLGA1200BX8070110700BH",
+                        "filename": "Intel_Core_i7-10700_2.9_GHz_Eight-Core_LGA_1200_BX8070110700_BH.9 GHz Eight-Core LGA 1200 BX8070110700 B&H",
+                        "size": 82492,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/0cf44cddb0e9a1a3f22e856761aa5d67/10646bdd",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/85138c179f5530d86b3d9d1b67bb827e/91ccb7c8",
+                                "width": 512,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/cbc9ae41fe7424e52ebcc844275c4031/f8a034b9",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Boost Speed": "4.8",
+                "Cores": 8,
+                "Tier": "Mid-Tier",
+                "CPUManufacturer": "Intel",
+                "Item URL": "https://www.newegg.com/intel-core-i7-10700-core-i7-10th-gen/p/N82E16819118126?Item=N82E16819118126&nm_mc=AFC-RAN-COM&cm_mmc=AFC-RAN-COM&utm_medium=affiliates&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-4KvomjjNq8iqatIkYzBQ1g"
+            },
+            "createdTime": "2020-12-28T00:32:45.000Z"
+        },
+        {
+            "id": "recqkRSZrOgfSno2z",
+            "fields": {
+                "Price": 299.99,
+                "Overclock": true,
+                "Name": "Ryzen 5 5600X ",
+                "Date Updated": "2020-12-28T00:42:00.000Z",
+                "Base Speed": "3.7",
+                "Model Number": "100-100000065BOX",
+                "Threads": 12,
+                "Photo": [
+                    {
+                        "id": "attsfoq5nOTCGYs6Q",
+                        "url": "https://dl.airtable.com/.attachments/608b2094ccfa6eda0204f69a73f1699c/5830ed33/Amazon.com_AMD_Ryzen_5_5600X_6-core_12-Thread_Unlocked_Desktop_...",
+                        "filename": "Amazon.com_AMD_Ryzen_5_5600X_6-core_12-Thread_Unlocked_Desktop_...",
+                        "size": 26312,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/55d1748c18c4da71d7910829ca17efe9/91aaba1a",
+                                "width": 34,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/241a5c9006ee5a5579fb4539e4f968d5/de323d94",
+                                "width": 466,
+                                "height": 500
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/20dd809d7787b99ef996a81f0f124b60/ab104355",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Boost Speed": "4.6",
+                "Cores": 6,
+                "Tier": "Mid-Tier",
+                "CPUManufacturer": "AMD",
+                "Item URL": "https://www.newegg.com/amd-ryzen-5-5600x/p/N82E16819113666?Item=N82E16819113666&nm_mc=AFC-RAN-COM&cm_mmc=AFC-RAN-COM&utm_medium=affiliates&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-ts6YT92uArfn46FsLLJ5WA"
+            },
+            "createdTime": "2020-12-28T00:38:43.000Z"
+        },
+        {
+            "id": "recfkNM3kCmXss8Bn",
+            "fields": {
+                "Price": 329.99,
+                "Overclock": true,
+                "Name": "Ryzen 7 3700X",
+                "Date Updated": "2020-12-28T00:44:00.000Z",
+                "Base Speed": "3.6",
+                "Model Number": "100-100000071BOX",
+                "In stock": true,
+                "Threads": 16,
+                "Photo": [
+                    {
+                        "id": "atta0Jo7qw2hl9PYY",
+                        "url": "https://dl.airtable.com/.attachments/02314e21f419b360f37baf4dcb2c1e1f/cfc441fb/AMD_RYZEN_7_3700X_8-Core_3.6_GHz_Desktop_CPU_Processor_-_Newegg.com",
+                        "filename": "AMD_RYZEN_7_3700X_8-Core_3.6_GHz_Desktop_CPU_Processor_-_Newegg.com",
+                        "size": 43916,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/d780d3f3e59def0039be735a11d0e516/d43429b5",
+                                "width": 48,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/96b94843f916f4f8c414f47b79f24247/0e3fd382",
+                                "width": 640,
+                                "height": 480
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/b501bf95e00dc5bd0fe2a5a45cb74de2/89f7c4de",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Boost Speed": "4.4",
+                "Cores": 8,
+                "Tier": "Mid-Tier",
+                "CPUManufacturer": "AMD",
+                "Item URL": "https://www.newegg.com/amd-ryzen-7-3700x/p/N82E16819113567?Item=N82E16819113567&nm_mc=AFC-RAN-COM&cm_mmc=AFC-RAN-COM&utm_medium=affiliates&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-UZgzzYayLfRGH6zk0MbH1w"
+            },
+            "createdTime": "2020-12-28T00:40:42.000Z"
+        },
+        {
+            "id": "recG7OFiRSKKR8gnY",
+            "fields": {
+                "Price": 459.99,
+                "Overclock": true,
+                "Name": "Core i9-10850K",
+                "Date Updated": "2020-12-28T00:51:00.000Z",
+                "Base Speed": "3.6",
+                "Model Number": "BX8070110850K",
+                "In stock": true,
+                "Threads": 20,
+                "Photo": [
+                    {
+                        "id": "att2bR9A8w4aep5GZ",
+                        "url": "https://dl.airtable.com/.attachments/051285bc300b5eb347b3b14803783463/7d765d8f/Intel_Core_i9-10850K_3.6_GHz_Ten-Core_LGA_1200_BX8070110850K_BH.6GHzTen-CoreLGA1200BX8070110850KBH",
+                        "filename": "Intel_Core_i9-10850K_3.6_GHz_Ten-Core_LGA_1200_BX8070110850K_BH.6 GHz Ten-Core LGA 1200 BX8070110850K B&H",
+                        "size": 262154,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/23a0de52cd69b14a39f3ba7aaa40b2e3/f289a63b",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/937a35880d8d87a7d2aece01817d0b77/82116054",
+                                "width": 512,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/616a8880bf7ade4290a9089f51152cdb/e426c070",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Boost Speed": "5.2",
+                "Cores": 10,
+                "Tier": "High-Tier",
+                "CPUManufacturer": "Intel",
+                "Item URL": "https://www.newegg.com/intel-core-i9-10850k-core-i9-10th-gen/p/N82E16819118175?Item=N82E16819118175&nm_mc=AFC-RAN-COM&cm_mmc=AFC-RAN-COM&utm_medium=affiliates&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-rV9tDxEgnWm5IPvLivoR2Q"
+            },
+            "createdTime": "2020-12-28T00:44:06.000Z"
+        },
+        {
+            "id": "recAoPKJN2lZCBSVm",
+            "fields": {
+                "Price": 539.99,
+                "Overclock": true,
+                "Name": "Core i9-10900K",
+                "Date Updated": "2020-12-28T00:53:00.000Z",
+                "Base Speed": "3.7",
+                "Model Number": "BX8070110900K",
+                "In stock": true,
+                "Threads": 20,
+                "Photo": [
+                    {
+                        "id": "attnFcWyObpoPf9gA",
+                        "url": "https://dl.airtable.com/.attachments/345987c630e15f7e51fa240e3c7217dc/5ddb01aa/Amazon.com_Intel_Core_i9-10900K_Desktop_Processor_10_Cores_up_to_...",
+                        "filename": "Amazon.com_Intel_Core_i9-10900K_Desktop_Processor_10_Cores_up_to_...",
+                        "size": 67242,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/f99904c44ef7be4c473a567593eb5488/8c183212",
+                                "width": 32,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/cc03fe4c87d53dc9616ee8cf5eb0b0dd/a95dd123",
+                                "width": 512,
+                                "height": 581
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/d9e1ecc453f2cab31d8dc34279ff7c0c/312e4199",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Boost Speed": "5.3",
+                "Cores": 10,
+                "Tier": "High-Tier",
+                "CPUManufacturer": "Intel",
+                "Item URL": "https://www.newegg.com/intel-core-i9-10900k-core-i9-10th-gen/p/N82E16819118122?Item=N82E16819118122&nm_mc=AFC-RAN-COM&cm_mmc=AFC-RAN-COM&utm_medium=affiliates&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-0HF1a_iQdgwHBOzpC9qT7Q"
+            },
+            "createdTime": "2020-12-28T00:51:47.000Z"
+        },
+        {
+            "id": "recv6m39kGDU2XetM",
+            "fields": {
+                "Price": 549.99,
+                "Overclock": true,
+                "Name": "Ryzen 9 5900X",
+                "Date Updated": "2020-12-28T00:55:00.000Z",
+                "Base Speed": "3.7",
+                "Model Number": "100-100000061WOF",
+                "Threads": 24,
+                "Photo": [
+                    {
+                        "id": "attXl6oYfdffEuJf4",
+                        "url": "https://dl.airtable.com/.attachments/48f835ef14254730b3084a20fa8d3b3e/08a6cfa6/5900X_AMD_Ryzen_9_5900X_3.7_GHz_12-Core_AM4_Processor_BH_Photo_Video.7GHz12-CoreAM4ProcessorBHPhotoVideo",
+                        "filename": "5900X_AMD_Ryzen_9_5900X_3.7_GHz_12-Core_AM4_Processor_BH_Photo_Video.7 GHz 12-Core AM4 Processor B&H Photo Video",
+                        "size": 82661,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/da12ae64e24a93ef70fbb50903258b80/3ff76038",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/b4fff4bd70cd5ee044b419b1c30bf536/d5314ce2",
+                                "width": 512,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/53611a99fc8b8baad534fc6b29df3fce/e9fb48d9",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Boost Speed": "4.8",
+                "Cores": 12,
+                "Tier": "High-Tier",
+                "CPUManufacturer": "AMD",
+                "Item URL": "https://www.newegg.com/amd-ryzen-9-5900x/p/N82E16819113664?Item=N82E16819113664&nm_mc=AFC-RAN-COM&cm_mmc=AFC-RAN-COM&utm_medium=affiliates&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-aMJjNueeWlipdiVzTLRnzA"
+            },
+            "createdTime": "2020-12-28T00:53:45.000Z"
+        },
+        {
+            "id": "rec3ho9rv4g8aBXHc",
+            "fields": {
+                "Price": 729.99,
+                "Name": "Ryzen 9 3950X",
+                "Date Updated": "2020-12-28T00:58:00.000Z",
+                "Base Speed": "3.5",
+                "Model Number": "100-100000051WOF",
+                "In stock": true,
+                "Threads": 32,
+                "Photo": [
+                    {
+                        "id": "attjrHAwi8fvoqfM4",
+                        "url": "https://dl.airtable.com/.attachments/3a3f3239eadc339fd842f6bb08a03eda/93d5a5af/AMD_Ryzen_9_3950X_3.5_GHz_16-Core_AM4_Processor_100-100000051WOF.5GHz16-CoreAM4Processor100-100000051WOF",
+                        "filename": "AMD_Ryzen_9_3950X_3.5_GHz_16-Core_AM4_Processor_100-100000051WOF.5 GHz 16-Core AM4 Processor 100-100000051WOF",
+                        "size": 160301,
+                        "type": "image/jpeg",
+                        "thumbnails": {
+                            "small": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/4ac59280960e6341276a46216c31298e/51803793",
+                                "width": 36,
+                                "height": 36
+                            },
+                            "large": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/0907067683c1a0f0e12f6ecfdf51d878/d5ecd433",
+                                "width": 512,
+                                "height": 512
+                            },
+                            "full": {
+                                "url": "https://dl.airtable.com/.attachmentThumbnails/839dfd6144500f5bd15c8e0f294c280e/cccbd180",
+                                "width": 3000,
+                                "height": 3000
+                            }
+                        }
+                    }
+                ],
+                "Boost Speed": "4.7",
+                "Cores": 16,
+                "Tier": "High-Tier",
+                "CPUManufacturer": "AMD",
+                "Item URL": "https://www.newegg.com/amd-ryzen-9-3950x/p/N82E16819113616?Item=N82E16819113616&nm_mc=AFC-RAN-COM&cm_mmc=AFC-RAN-COM&utm_medium=affiliates&utm_source=afc-PCPartPicker&AFFID=2558510&AFFNAME=PCPartPicker&ACRID=1&ASID=https%3a%2f%2fpcpartpicker.com%2f&ranMID=44583&ranEAID=2558510&ranSiteID=8BacdVP0GFs-pa2Z4HUIx6_CVOayD2vJsg"
+            },
+            "createdTime": "2020-12-28T00:56:00.000Z"
+        }
+    ]
+}

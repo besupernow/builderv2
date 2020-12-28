@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+    <title>Builder</title>
+</head>
+<body>
+    <div id="myData"></div>
+    <script type="text/javascript">
+    
+    fetch('./products.json')
+    .then(function (response) {
+        return response.json();
+    })
+    .then(function (data) {
+        console.log(data)
+        appendData(data);
+    })
+    .catch(function (err) {
+        console.log(err);
+    });
+    function appendData(data) {
+        var mainContainer = document.getElementById("myData");
+        for (var i = 0; i < data.cpu.length; i++) {
+            var div = document.createElement("div");
+            var thisData = data.cpu[i].fields
+            div.innerHTML = 'Name: ' + thisData.Name + ' Price: ' + thisData.Price + ' Tier: '+ thisData.Tier + " Manufacturer: "+ thisData.CPUManufacturer;
+            mainContainer.appendChild(div);
+        }
+    }
+    </script>
+</body>

@@ -1,9 +1,10 @@
 const stripe = require('stripe')('sk_test_51HYbVRElfrSODCqLBTLZnK4OQPHX12zkrwxPGAAedBiFPc7SY23tvHRss2OWqNIkpZhEULDI126d4AePJD3RTHII00ECz1M58d');
 const express = require('express');
+const fs = require('fs');
 const app = express();
 app.use(express.static('.'));
 
-const YOUR_DOMAIN = 'https://testing-builder.herokuapp.com';
+const YOUR_DOMAIN = 'https://localhost:5500';
 
 app.post('/create-checkout-session', async (req, res) => {
   const session = await stripe.checkout.sessions.create({
@@ -38,10 +39,9 @@ app.post('/create-checkout-session', async (req, res) => {
     ],
     mode: 'payment',
     success_url: `${YOUR_DOMAIN}/success.html`,
-    cancel_url: `${YOUR_DOMAIN}/cancel.html`,
+    cancel_url: `${YOUR_DOMAIN}/builder.html`,
   });
 
   res.json({ id: session.id });
 });
-
-app.listen("https://testing-builder.herokuapp.com", () => console.log('running'));
+app.listen(5500, () => console.log('Running on port 5500'));

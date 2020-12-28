@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        .loader {
+            position: absolute;
+            left: 50%;
+            top: 60%;
+            z-index: 1;
+            width: 120px;
+            height: 120px;
+            margin: -76px 0 0 -76px;
+            border: 16px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 16px solid #0a96f3;
+            -webkit-animation: spin 2s linear infinite;
+            animation: spin 2s linear infinite;
+        }
+
+        @-webkit-keyframes spin {
+            0% { -webkit-transform: rotate(0deg); }
+            100% { -webkit-transform: rotate(360deg); }
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        body {
+            background-color: rgba(44, 44, 44);
+        }
+
+        #header{
+            text-align: center;
+            user-select: none;
+            position: relative;
+            text-anchor: middle;
+            padding-top: 20%;
+            color: white;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+    </style>
+    <body>
+        <h1 id="header">
+            Please Wait as we load the Builder
+        </h1>
+        <div class="loader"></div>
+        <script src="renderer.js"></script>
+    </body>
+</html>
