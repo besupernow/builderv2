@@ -44,4 +44,4 @@ app.post('/create-checkout-session', async (req, res) => {
 
   res.json({ id: session.id });
 });
-app.listen(5500, () => console.log('Running on port 5500'));
+app.listen(8080, () => console.log('Running on port 8080'));
