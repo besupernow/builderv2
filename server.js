@@ -20,6 +20,17 @@ app.post('/create-checkout-session', async (req, res) => {
         },
         quantity: 1,
       },
+      {
+        price_data:{
+          currency: 'usd',
+          product_data: {
+            name: 'Intel i7 Core',
+            
+          },
+          unit_amount: 11750,
+        },
+        quantity: 1,
+      },
     ],
     mode: 'payment',
     success_url: `${YOUR_DOMAIN}/success.html`,
